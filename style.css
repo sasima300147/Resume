@@ -1,0 +1,18 @@
+.profile {
+    border-radius: 50%;
+}
+.table1 {
+    border: solid rgb(255, 255, 255) 1px;
+}
+p {
+    color: rgb(85, 0, 0);
+}
+.table2 {
+    border: dashed rgb(20, 0, 0) 2px;
+}
+h3 {
+    color: rgb(142, 216, 253);
+}
+body{
+    background-color: #9fff80;
+}
